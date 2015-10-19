@@ -5,3 +5,5 @@
 {"Latitde":XXX,"Longitude":XXX}, //HHMM.sss
 {"Latitde":XXX,"Longitude":XXX}  //In degree format
 ]
+
+//呵呵哒
